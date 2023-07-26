@@ -1,0 +1,10 @@
+* cl-autorepo
+
+A simple mechanism to auto-load Lisp libraries from respositories.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/billstclair/cl-autorepo.git   |
+| commit  | 469b9a0  |
+| systems | cl-autorepo |
+|---------+-------------------------------------------|
+
